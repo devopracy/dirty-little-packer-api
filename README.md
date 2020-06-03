@@ -1,2 +1,2 @@
 # dirty-little-packer-api
-Those wonky old java buildservers are the worst of modern infrastructure.This is a workaround.
+A thin wrapper API for the Packer CLI for ease of automation in a pipeline.
